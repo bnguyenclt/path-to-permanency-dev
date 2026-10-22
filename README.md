@@ -20,14 +20,14 @@ This was initially a migration of [Path to Permanency](https://www.pathtopermane
 
 * Navigate to the `/flute-flugelhorn-43ff.squarespace.com` folder.
 * Open `index.html` manually within your preferred file browser or use one of the following commands.
-* Google Chrome:
-* ```
-  google-chrome index.html
-  ```
-* Firefox:
-* ```
-  firefox index.html
-  ```
+  * Google Chrome:
+    ```
+    google-chrome index.html
+    ```
+  * Firefox:
+    ```
+    firefox index.html
+    ```
 
 ## Help
 
@@ -37,9 +37,11 @@ All content shown here can be found on [Path to Permanency's current website](ht
 
 ## Author
 
-ex. Benjamin Nguyen
-ex. LinkedIn: [@benjaminnguyen-charlottenc](https://www.linkedin.com/in/benjaminnguyen-charlottenc/)
-ex. GitHub: [@bnguyenclt](https://github.com/bnguyenclt)
+Benjamin Nguyen
+
+LinkedIn: [@benjaminnguyen-charlottenc](https://www.linkedin.com/in/benjaminnguyen-charlottenc/)
+
+GitHub: [@bnguyenclt](https://github.com/bnguyenclt)
 
 ## License
 
